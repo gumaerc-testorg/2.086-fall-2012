@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding problem set 5.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-086-numerical-computation-for-mechanical-engineers-fall-2012/3a6ea77d5d5d63905832eb9a597293db_MIT2_086F12_pset5.pdf
+file: /media/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/3a6ea77d5d5d63905832eb9a597293db_MIT2_086F12_pset5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Problem Sets
+parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 5
 uid: 3a6ea77d-5d5d-6390-5832-eb9a597293db

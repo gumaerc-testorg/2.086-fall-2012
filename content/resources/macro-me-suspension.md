@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Readings
+optional_tab_title: ''
+optional_text: ''
+parent_title: Readings
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Macro-Me-Suspension
 uid: bf51bd83-69e7-db07-3c5a-b9bb7bc0d03a

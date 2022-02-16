@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding problem set 2.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-086-numerical-computation-for-mechanical-engineers-fall-2012/2adb19a2bdbf02b4fa3f576bf3ead22d_MIT2_086F12_pset2.pdf
+file: /media/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/2adb19a2bdbf02b4fa3f576bf3ead22d_MIT2_086F12_pset2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Problem Sets
+parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 2
 uid: 2adb19a2-bdbf-02b4-fa3f-576bf3ead22d

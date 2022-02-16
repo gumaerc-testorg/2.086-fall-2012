@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding Bernoulli/Area Estimation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-086-numerical-computation-for-mechanical-engineers-fall-2012/a7c117d905e682f5553efc8ab84f27fa_MIT2_086F12_unit2_bern.pdf
+file: /media/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/a7c117d905e682f5553efc8ab84f27fa_MIT2_086F12_unit2_bern.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Slides on Bernoulli/Area Estimation
 uid: a7c117d9-05e6-82f5-553e-fc8ab84f27fa

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: MATLAB Exercises
 uid: 9cdff75d-72ec-17ec-65e8-d98104a1f627
 ---

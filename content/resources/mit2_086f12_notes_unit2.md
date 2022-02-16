@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information regarding Monte Carlo Methods from
   Math, Numerics, and Programming (for Mechanical Engineers).
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-086-numerical-computation-for-mechanical-engineers-fall-2012/620181b7e657843652addefc39074e37_MIT2_086F12_notes_unit2.pdf
+file: /media/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/620181b7e657843652addefc39074e37_MIT2_086F12_notes_unit2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 'Unit 2: Monte Carlo Methods from Math, Numerics, and Programming (for Mechanical
   Engineers). V1.2, September 2012.'

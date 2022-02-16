@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding quiz 4 study guide. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-086-numerical-computation-for-mechanical-engineers-fall-2012/019820beff95c5e66ad28ed15977e764_MIT2_086F12_quiz4_samples.pdf
+file: /media/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/019820beff95c5e66ad28ed15977e764_MIT2_086F12_quiz4_samples.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 'Quiz 4 study guide '
 uid: 019820be-ff95-c5e6-6ad2-8ed15977e764

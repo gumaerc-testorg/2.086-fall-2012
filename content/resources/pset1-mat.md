@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Problem Sets
 parent_type: CourseSection
+parent_uid: 39d5c010-34bb-c7d4-bd0c-427acf3354cd
 resourcetype: Other
 title: PSet1.mat.mat
 uid: 021cf7c3-3f25-e8c5-bb52-947f74648bc9

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 627026af-f776-7e5c-9883-3022eddc34d9
 resourcetype: Document
 title: 2.086 bridging to 2.007
 uid: b3892006-65d1-0edf-4a75-0902f2a81e6e

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Problem Sets
 parent_type: CourseSection
+parent_uid: 39d5c010-34bb-c7d4-bd0c-427acf3354cd
 resourcetype: Other
 title: Pset_5_Q5_6_plotting_code.m
 uid: 06c99daa-049b-e1f2-e6b6-62f1ceea9eee

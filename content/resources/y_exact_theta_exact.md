@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Problem Sets
 parent_type: CourseSection
+parent_uid: 39d5c010-34bb-c7d4-bd0c-427acf3354cd
 resourcetype: Other
 title: Y_exact_theta_exact.m
 uid: 9c464022-e134-798e-3f66-7680951a56d8

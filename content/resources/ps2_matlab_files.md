@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Problem Sets
 parent_type: CourseSection
+parent_uid: 39d5c010-34bb-c7d4-bd0c-427acf3354cd
 resourcetype: Other
 title: PS2_Matlab_files.zip
 uid: e7ab2d3f-164f-d2b6-a21c-26eb6d49874f

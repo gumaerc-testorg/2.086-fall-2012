@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Problem Sets
 parent_type: CourseSection
+parent_uid: 39d5c010-34bb-c7d4-bd0c-427acf3354cd
 resourcetype: Other
 title: Pset_4_datafiles.zip
 uid: 497abd7f-8059-c395-1d20-14db5ff0be2b

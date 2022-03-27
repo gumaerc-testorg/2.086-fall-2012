@@ -320,7 +320,8 @@ Quiz 3 (Unit III)
 R8
 {{< tdclose >}}
 {{< tdopen >}}
-MATLAB eig.
+MATLAB `eig`
+.
 {{< tdclose >}}
 {{< tdopen >}}
 MATLAB Exercises 8

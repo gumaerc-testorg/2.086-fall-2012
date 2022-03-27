@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: MATLAB Exercises
 parent_type: CourseSection
+parent_uid: 9cdff75d-72ec-17ec-65e8-d98104a1f627
 resourcetype: Document
 title: "MATLAB\xAE Exercises 9"
 uid: 39888ee9-a413-e81d-6d0a-673680e18c28

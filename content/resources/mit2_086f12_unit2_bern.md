@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c98439d5-6a6d-7a4d-d7a4-d2681b1866d2
 resourcetype: Document
 title: Slides on Bernoulli/Area Estimation
 uid: a7c117d9-05e6-82f5-553e-fc8ab84f27fa

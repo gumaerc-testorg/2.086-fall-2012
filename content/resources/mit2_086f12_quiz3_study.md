@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 081d45ef-1888-e715-3d42-ce7eec113229
 resourcetype: Document
 title: Quiz 3 study guide
 uid: 03772ce9-0bc8-8210-4f07-559ffd0eb253

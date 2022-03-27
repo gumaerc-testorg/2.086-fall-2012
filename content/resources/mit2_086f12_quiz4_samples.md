@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 081d45ef-1888-e715-3d42-ce7eec113229
 resourcetype: Document
 title: 'Quiz 4 study guide '
 uid: 019820be-ff95-c5e6-6ad2-8ed15977e764

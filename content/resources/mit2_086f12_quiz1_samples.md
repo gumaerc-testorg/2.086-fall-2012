@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 081d45ef-1888-e715-3d42-ce7eec113229
 resourcetype: Document
 title: Quiz 1 sample problems with solutions
 uid: 0153abf4-d67b-bfd7-788b-8d608403e130

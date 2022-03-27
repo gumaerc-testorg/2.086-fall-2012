@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Problem Sets
 parent_type: CourseSection
+parent_uid: 39d5c010-34bb-c7d4-bd0c-427acf3354cd
 resourcetype: Document
 title: Problem Set 1
 uid: 97b8460d-504d-0baa-b7b6-2cf2acc7c29b

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c98439d5-6a6d-7a4d-d7a4-d2681b1866d2
 resourcetype: Document
 title: 'Unit 7: Nonlinear Equations  from Math, Numerics, and Programming (for Mechanical
   Engineers). V1.2, September 2012.'

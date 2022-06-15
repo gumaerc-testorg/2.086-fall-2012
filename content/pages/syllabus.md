@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course objectives, meeting
+  times, related courses, software, course delivery, assessment, and the policy on
+  collaboration.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,11 +19,11 @@ Recitation / labs: 1 session / week, 3 hours / session
 Related Courses
 ---------------
 
-Prerequisites: [_2.001 Mechanics and Materials I_](/courses/2-001-mechanics-materials-i-fall-2006/), [_2.003J Dynamics and Control I_](/courses/2-003j-dynamics-and-control-i-fall-2007/) 
+Prerequisites: [_2.001 Mechanics and Materials I_](/courses/2-001-mechanics-materials-i-fall-2006), [_2.003J Dynamics and Control I_](/courses/2-003j-dynamics-and-control-i-fall-2007) 
 
 Co-requisite: _2.005 Thermal-Fluids Engineering I_
 
-This course is geared toward undergraduate students. A more advanced graduate-level treatment can be found in [_16.920J/2.097J/6.339J Numerical Methods for Partial Differential Equations_](/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/).
+This course is geared toward undergraduate students. A more advanced graduate-level treatment can be found in [_16.920J/2.097J/6.339J Numerical Methods for Partial Differential Equations_](/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003).
 
 Software
 --------
@@ -53,7 +56,7 @@ A commitment to always provide with any numerical prediction or recommendation s
 Course Delivery
 ---------------
 
-The course delivery includes lectures, recitations, reading assignments from the textbook _Math, Numerics, and Programming (for Mechanical Engineers)_, problem sets, quizzes, and MATLAB exercises. These elements are summarized in the class [calendar]({{< baseurl >}}/pages/calendar).
+The course delivery includes lectures, recitations, reading assignments from the textbook _Math, Numerics, and Programming (for Mechanical Engineers)_, problem sets, quizzes, and MATLAB exercises. These elements are summarized in the class {{% resource_link 6632ed2b-3ebf-13bf-dae4-1e31ff6dd979 "calendar" %}}.
 
 Lectures will comprise motivation/engineering demonstrations, blackboard review of key concepts, animations of numerical techniques, and examples of MATLAB implementations. The lectures will emphasize the math and numerics, but also the connection to MATLAB programming.
 

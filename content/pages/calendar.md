@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture and recitation topics,
+  quizzes, MATLAB exercises, and problem sets.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -320,8 +322,7 @@ Quiz 3 (Unit III)
 R8
 {{< tdclose >}}
 {{< tdopen >}}
-MATLAB `eig`
-.
+MATLAB eig.
 {{< tdclose >}}
 {{< tdopen >}}
 MATLAB Exercises 8

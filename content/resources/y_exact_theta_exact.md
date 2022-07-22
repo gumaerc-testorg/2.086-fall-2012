@@ -5,6 +5,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/9c
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Sets
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Y_exact_theta_exact.m
 uid: 9c464022-e134-798e-3f66-7680951a56d8
 ---
 This is a special file for assignments.
-

@@ -6,6 +6,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/a5
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Unit 7: Nonlinear Equations  from Math, Numerics, and Programming (for M
 uid: a507249c-4981-8a77-f419-e5c411deac73
 ---
 This resource contains information regarding Nonlinear Equations  from Math, Numerics, and Programming (for Mechanical Engineers).
-

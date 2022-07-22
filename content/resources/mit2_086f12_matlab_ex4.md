@@ -5,6 +5,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/ac
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: MATLAB Exercises
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "MATLAB\xAE Exercises 4"
 uid: ac9e0583-b47e-5559-8b53-694cb4eb0274
 ---
 This resource contains information regarding MATLAB exercises 4.
-

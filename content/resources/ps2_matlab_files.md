@@ -5,6 +5,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/e7
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Sets
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: PS2_Matlab_files.zip
 uid: e7ab2d3f-164f-d2b6-a21c-26eb6d49874f
 ---
 This zip file contains 1 .mat and 1.m file.
-

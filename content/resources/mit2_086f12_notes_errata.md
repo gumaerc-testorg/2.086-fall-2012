@@ -6,6 +6,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/3a
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: V1.2 Errata  from Math, Numerics, & Programming
 uid: 3aa46ba5-0b08-b5e3-bd99-f4761e32921f
 ---
 This resource contains information regarding V1.2 Errata  from Math, Numerics, & Programming.
-

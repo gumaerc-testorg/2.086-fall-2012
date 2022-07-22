@@ -5,6 +5,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/02
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Sets
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: PSet1.mat.mat
 uid: 021cf7c3-3f25-e8c5-bb52-947f74648bc9
 ---
 This is a special file for assignments.
-

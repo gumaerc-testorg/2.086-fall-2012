@@ -5,6 +5,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/01
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Quiz 4 study guide '
 uid: 019820be-ff95-c5e6-6ad2-8ed15977e764
 ---
 This resource contains information regarding quiz 4 study guide. 
-

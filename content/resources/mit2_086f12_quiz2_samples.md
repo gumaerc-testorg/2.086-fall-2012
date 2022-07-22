@@ -6,6 +6,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/d0
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Quiz 2 sample problems with solutions
 uid: d054b477-7ed6-ded1-b090-a88f72e15aec
 ---
 This resource contains information regarding quiz 2 sample problems with solutions.
-

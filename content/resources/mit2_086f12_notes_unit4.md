@@ -6,6 +6,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/53
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Unit 4: (Numerical) Differential Equations from Math, Numerics, and Prog
 uid: 53ab2510-8f65-316a-6889-a3053e1f4864
 ---
 This resource contains information regarding (Numerical) Differential Equations from Math, Numerics, and Programming (for Mechanical Engineers).
-

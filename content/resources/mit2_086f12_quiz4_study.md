@@ -6,6 +6,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/de
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT2_086F12_quiz4_samples.pdf
 uid: ded4333b-1b94-7032-55f4-b8811e999db6
 ---
 This resource contains information regarding quiz 4 sample problems with solutions. 
-

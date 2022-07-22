@@ -6,6 +6,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/60
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Unit 1: . (Numerical) Calculus; Elementary Programming Concepts from Mat
 uid: 60dcae08-4890-daa2-2bad-45fa1d8b8da6
 ---
 This resource contains information regarding (Numerical) Calculus; Elementary Programming Concepts from Math, Numerics, and Programming (for Mechanical Engineers).
-

@@ -5,6 +5,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/24
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Sets
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 4
 uid: 2444186b-9b8b-f152-9ffd-7940730a0231
 ---
 This resource contains information regarding problem set 4.
-

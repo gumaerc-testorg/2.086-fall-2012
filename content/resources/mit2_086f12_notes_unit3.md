@@ -7,6 +7,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/01
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Unit 3: Linear Algebra 1: Matrices and Least Squares; Regression from Ma
 uid: 016e58e1-3c5f-ca3e-088f-f3585eb4ca6b
 ---
 This resource contains information regarding Linear Algebra 1: Matrices and Least Squares; Regression from Math, Numerics, and Programming (for Mechanical Engineers).
-

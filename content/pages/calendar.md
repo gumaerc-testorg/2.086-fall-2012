@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture and recitation topics,
+  quizzes, MATLAB exercises, and problem sets.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 6632ed2b-3ebf-13bf-dae4-1e31ff6dd979
 ---

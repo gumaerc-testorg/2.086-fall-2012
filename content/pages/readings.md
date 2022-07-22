@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the reading assignments for each unit of the course,
+  downloadable chapters of the course textbook, and supporting demonstration videos.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: c98439d5-6a6d-7a4d-d7a4-d2681b1866d2
 ---
@@ -26,7 +31,7 @@ SUPPORTING VIDEOS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Unit I. (Numerical) Calculus; Elementary Programming Concepts (PDF - 2.4MB)]({{< baseurl >}}/resources/mit2_086f12_notes_unit1)
+{{% resource_link 60dcae08-4890-daa2-2bad-45fa1d8b8da6 "Unit I. (Numerical) Calculus; Elementary Programming Concepts (PDF - 2.4MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -44,7 +49,7 @@ MATLAB:
 
 {{< tdclose >}}
 {{< tdopen >}}
-[The Macro-Me-Robot^1]({{< baseurl >}}/resources/the-macro-me-robot-1)
+{{% resource_link b2f58604-126f-8815-24e1-5aa944f548f7 "The Macro-Me-Robot^1" %}}
 
 Video of a 2.086 robot performing IR range finding and odometry. (Courtesy of James Penn. Used with permission.)
 
@@ -54,7 +59,7 @@ Video of a 2.086 robot performing IR range finding and odometry. (Courtesy of Ja
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Unit II. Monte Carlo Methods (PDF - 2.1MB)]({{< baseurl >}}/resources/mit2_086f12_notes_unit2)
+{{% resource_link 620181b7-e657-8436-52ad-defc39074e37 "Unit II. Monte Carlo Methods (PDF - 2.1MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -68,7 +73,7 @@ MATLAB:
 *   Section 6.1, 6.2, 6.3, and 6.4
 *   Section 5.3
 
-[Bernoulli/Area Estimation Summary (PDF)]({{< baseurl >}}/resources/mit2_086f12_unit2_bern)
+{{% resource_link a7c117d9-05e6-82f5-553e-fc8ab84f27fa "Bernoulli/Area Estimation Summary (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -77,7 +82,7 @@ MATLAB:
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Unit III. Linear Algebra 1: Matrices and Least Squares; Regression (PDF - 2.3MB)]({{< baseurl >}}/resources/mit2_086f12_notes_unit3)
+{{% resource_link 016e58e1-3c5f-ca3e-088f-f3585eb4ca6b "Unit III. Linear Algebra 1: Matrices and Least Squares; Regression (PDF - 2.3MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -95,7 +100,7 @@ MATLAB:
 {{< tdopen >}}
 
 
-[The Macro-Me-Robot: Friction Test]({{< baseurl >}}/resources/the-macro-me-robot-friction-test)
+{{% resource_link be47833f-6e3a-6590-19b3-dccd9e2d1c8a "The Macro-Me-Robot: Friction Test" %}}
 
 Video of a 2.086 robot attempting to push a load on two different surfaces. (Courtesy of James Penn. Used with permission.)
 
@@ -105,7 +110,7 @@ Video of a 2.086 robot attempting to push a load on two different surfaces. (Cou
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Unit IV. (Numerical) Differential Equations (PDF - 1.2MB)]({{< baseurl >}}/resources/mit2_086f12_notes_unit4)
+{{% resource_link 53ab2510-8f65-316a-6889-a3053e1f4864 "Unit IV. (Numerical) Differential Equations (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -123,7 +128,7 @@ MATLAB:
 {{< tdopen >}}
 
 
-[Macro-Me-Suspension]({{< baseurl >}}/resources/macro-me-suspension)
+{{% resource_link bf51bd83-69e7-db07-3c5a-b9bb7bc0d03a "Macro-Me-Suspension" %}}
 
 Video of a 2.086 robot driving over a small bump at three different velocities. (Courtesy of James Penn. Used with permission.)
 
@@ -167,7 +172,7 @@ Unit VI. Linear Algebra 3: Eigenvalue Problems—_NOT AVAILABLE_
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Unit VII. Nonlinear Equations (PDF)]({{< baseurl >}}/resources/mit2_086f12_notes_unit7)
+{{% resource_link a507249c-4981-8a77-f419-e5c411deac73 "Unit VII. Nonlinear Equations (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -181,7 +186,7 @@ Math and Numerics, and MATLAB
 {{< tdopen >}}
 
 
-[Robot Arm Demo]({{< baseurl >}}/resources/robot-arm-demo)
+{{% resource_link b6597af2-99cc-fbeb-770c-a395a9f4c8e1 "Robot Arm Demo" %}}
 
 Video of a 2.086 robot arm tracking a specified trajectory. (Courtesy of James Penn. Used with permission.)
 
@@ -191,7 +196,7 @@ Video of a 2.086 robot arm tracking a specified trajectory. (Courtesy of James P
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[V1.2 Errata (PDF)]({{< baseurl >}}/resources/mit2_086f12_notes_errata)
+{{% resource_link 3aa46ba5-0b08-b5e3-bd99-f4761e32921f "V1.2 Errata (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  

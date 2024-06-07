@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Bernoulli/Area Estimation.
 file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/a7c117d905e682f5553efc8ab84f27fa_MIT2_086F12_unit2_bern.pdf
+file_size: 156953
 file_type: application/pdf
 learning_resource_types:
 - Readings

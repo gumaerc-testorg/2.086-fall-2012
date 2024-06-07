@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding problem set 3.
 file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/01a78b34e5b6be5e50e8d9d12b7375d4_MIT2_086F12_pset3.pdf
+file_size: 871284
 file_type: application/pdf
 learning_resource_types:
 - Assignments

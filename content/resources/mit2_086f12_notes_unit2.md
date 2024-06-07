@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding Monte Carlo Methods from
   Math, Numerics, and Programming (for Mechanical Engineers).
 file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/620181b7e657843652addefc39074e37_MIT2_086F12_notes_unit2.pdf
+file_size: 2160352
 file_type: application/pdf
 learning_resource_types:
 - Readings

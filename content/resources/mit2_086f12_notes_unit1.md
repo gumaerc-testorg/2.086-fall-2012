@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding (Numerical) Calculus; Elementary
   Programming Concepts from Math, Numerics, and Programming (for Mechanical Engineers).
 file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/60dcae084890daa22bad45fa1d8b8da6_MIT2_086F12_notes_unit1.pdf
+file_size: 2539713
 file_type: application/pdf
 learning_resource_types:
 - Readings

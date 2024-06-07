@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding V1.2 Errata  from Math,
   Numerics, & Programming.
 file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/3aa46ba50b08b5e3bd99f4761e32921f_MIT2_086F12_notes_errata.pdf
+file_size: 120198
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding quiz 2 study guide.
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/af7466045e74fea9c9a40b13b49e97be_MIT2_086F12_quiz2_study.pdf
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/af7466045e74fea9c9a40b13b49e97be_MIT2_086F12_quiz2_study.pdf
 file_size: 125355
 file_type: application/pdf
 learning_resource_types:

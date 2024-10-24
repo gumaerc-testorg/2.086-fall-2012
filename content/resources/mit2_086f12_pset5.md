@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding problem set 5.
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/3a6ea77d5d5d63905832eb9a597293db_MIT2_086F12_pset5.pdf
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/3a6ea77d5d5d63905832eb9a597293db_MIT2_086F12_pset5.pdf
 file_size: 408672
 file_type: application/pdf
 learning_resource_types:

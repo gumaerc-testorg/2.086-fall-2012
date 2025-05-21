@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file for assignments.
-file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/9c464022e134798e3f667680951a56d8_Y_exact_theta_exact.m
+file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/9c464022e134798e3f667680951a56d8_Y_exact_theta_exact.m
 file_size: 800
 file_type: text/x-objcsrc
 learning_resource_types:

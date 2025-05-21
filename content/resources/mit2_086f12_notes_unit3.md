@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding Linear Algebra 1: Matrices
   and Least Squares; Regression from Math, Numerics, and Programming (for Mechanical
   Engineers).'
-file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/016e58e13c5fca3e088ff3585eb4ca6b_MIT2_086F12_notes_unit3.pdf
+file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/016e58e13c5fca3e088ff3585eb4ca6b_MIT2_086F12_notes_unit3.pdf
 file_size: 2449632
 file_type: application/pdf
 learning_resource_types:

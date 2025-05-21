@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding MATLAB exercises 3.
-file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/2ab48928ba8604f71276ec19f5320d00_MIT2_086F12_matlab_ex3.pdf
+file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/2ab48928ba8604f71276ec19f5320d00_MIT2_086F12_matlab_ex3.pdf
 file_size: 179488
 file_type: application/pdf
 learning_resource_types:

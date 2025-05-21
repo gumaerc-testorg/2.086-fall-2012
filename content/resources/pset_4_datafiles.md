@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/497abd7f8059c3951d2014db5ff0be2b_Pset_4_datafiles.zip
+file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/497abd7f8059c3951d2014db5ff0be2b_Pset_4_datafiles.zip
 file_size: 37432
 file_type: application/zip
 learning_resource_types:

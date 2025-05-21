@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file for assignments.
-file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/021cf7c33f25e8c5bb52947f74648bc9_PSet1.mat.mat
+file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/021cf7c33f25e8c5bb52947f74648bc9_PSet1.mat.mat
 file_size: 3389
 file_type: application/octet-stream
 learning_resource_types:

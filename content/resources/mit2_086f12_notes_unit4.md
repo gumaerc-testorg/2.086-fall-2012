@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding (Numerical) Differential
   Equations from Math, Numerics, and Programming (for Mechanical Engineers).
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/53ab25108f65316a6889a3053e1f4864_MIT2_086F12_notes_unit4.pdf
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/53ab25108f65316a6889a3053e1f4864_MIT2_086F12_notes_unit4.pdf
 file_size: 1272308
 file_type: application/pdf
 learning_resource_types:

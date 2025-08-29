@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding quiz 4 study guide. '
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/019820beff95c5e66ad28ed15977e764_MIT2_086F12_quiz4_samples.pdf
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/019820beff95c5e66ad28ed15977e764_MIT2_086F12_quiz4_samples.pdf
 file_size: 1735924
 file_type: application/pdf
 learning_resource_types:

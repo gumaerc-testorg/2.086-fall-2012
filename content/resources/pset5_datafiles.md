@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This zip file contains 2 .m files and 1 .mat file.
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/749dea8cd8c5d34546a6ee6a593637cd_Pset5_datafiles.zip
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/749dea8cd8c5d34546a6ee6a593637cd_Pset5_datafiles.zip
 file_size: 2467
 file_type: application/zip
 learning_resource_types:

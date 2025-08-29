@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file for assignments.
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/06c99daa049be1f2e6b662f1ceea9eee_Pset_5_Q5_6_plotting_code.m
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/06c99daa049be1f2e6b662f1ceea9eee_Pset_5_Q5_6_plotting_code.m
 file_size: 1440
 file_type: text/x-objcsrc
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding quiz 2 sample problems with
   solutions.
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/d054b4777ed6ded1b090a88f72e15aec_MIT2_086F12_quiz2_samples.pdf
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/d054b4777ed6ded1b090a88f72e15aec_MIT2_086F12_quiz2_samples.pdf
 file_size: 1867194
 file_type: application/pdf
 learning_resource_types:
